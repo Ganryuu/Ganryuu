@@ -1,10 +1,6 @@
 Hi 👋 My name is Bassem Gouty
 =============================
 
-Data Scientist / Software Developer
------------------------------------
-
-Aspiring Student with a lot of enthusiasm towards Artificial intelligence and Data Science , always looking for new opportunities to craft my skills and improve my knowledge .
 
 * 🌍  I'm based in Tunisia
 * ✉️  You can contact me at [Bassemgouty@gmail.com](mailto:Bassemgouty@gmail.com)
