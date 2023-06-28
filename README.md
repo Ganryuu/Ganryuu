@@ -11,7 +11,7 @@ Hi 👋 My name is Bassem Gouty
 <a href="https://www.github.com/Ganryuu" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Ganryuu?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-### Languages and Tools I worked With
+### Languages and Tools
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
