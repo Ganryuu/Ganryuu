@@ -4,7 +4,7 @@ Hi 👋 My name is Bassem Gouty
 
 * 🌍  I'm based in Tunisia
 * ✉️  You can contact me at [Bassemgouty@gmail.com](mailto:Bassemgouty@gmail.com)
-* 🧠  I'm learning LangChain and LLMs
+* 🧠  I'm learning Transformer based architectures 
 * 🤝  I'm open to collaborating on any Machine Learning related projects
 * ⚡  Always Outperform your past self
 
