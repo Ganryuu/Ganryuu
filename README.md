@@ -1,5 +1,5 @@
 I enjoy creating intelligent systems. 
 
-Bassem.sh
+bassem.sh
 
 contact me at: bassem@oorb.io
